@@ -91,7 +91,6 @@ I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, 
   </tr>
 </table>
 
-<!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Batmilly/Batmilly/main/Milly2.jpeg" width="90%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Batmilly/Batmilly/main/theend.jpg" width="100%" alt="banner"/>
 </div>
